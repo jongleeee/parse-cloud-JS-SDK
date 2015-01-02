@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "group"
+        }, 
+        "group": {
+            "applicationId": "nqi7esegIm4RP8lREeDJ2TAkVXFvaxZiKArce63Y", 
+            "masterKey": "sqGG4CcW7jKRwHDGmX8bfSinmnVcQULgoGscBZOD"
+        }
+    }
+}
